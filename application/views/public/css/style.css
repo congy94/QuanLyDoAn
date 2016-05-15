@@ -1,0 +1,25 @@
+#header{
+    margin-top:10px;
+    background: #2e8ece;
+}
+#menu{
+    background:#34495e;
+    padding: 5px;
+}
+#menu .btn-menu{
+    background:#2c3e50;
+    color: #ffffff;
+    border-style: none;
+    margin-left:10px;
+    margin-right:10px;
+    padding: 5px;
+}
+#footer{
+    background:#34495e;
+    padding: 10px;
+    color: #ffffff;
+    text-align: center;
+}
+label{margin-left: 20px;}
+#datepicker{width:180px; margin: 0 20px 20px 20px;}
+#datepicker > span:hover{cursor: pointer;}
